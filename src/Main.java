@@ -7,8 +7,6 @@ public class Main {
         friend = friend / 7;
         System.out.println(friend);
 
-        System.out.println();
-
         var frog = 3.5;
         System.out.println(frog);
         frog = frog * 10;
